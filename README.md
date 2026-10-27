@@ -52,6 +52,14 @@ Necesitas tu juego de PC y Lucas. Extrae todo el RAR y abre `Instalar_Juega_con_
 
 He jugado en castellano, inglés y latino. Francés y alemán están preparados, pero mis instalaciones siguen con menús en español y no he probado sus voces: sus pruebas jugando siguen incompletas. Para reportar, indica idioma, versión, nivel/misión, personaje/coche, otros mods y pasos para reproducirlo. ¡Gracias por ayudarme a comprobarlo!
 
+## AI assistance and human review
+
+Claude Code assisted development of this character mod, with Codex as additional support. I spent dozens of hours on model/scale adaptation, voice research and selection, review and manual playtesting. Voice recordings are original game recordings, not generated speech. AI assistance also applies to documentation and promotional text/media. The gameplay/language limits above still apply.
+
+## Alternative manual edition
+
+The Release also has a separate LMLM prepared for Donut Team review, an English/Spanish manual and a small readable offline source tool for optional local SHARLatino preparation. The base LMLM includes the four official repertoires but does not prepare Latino automatically. The generated local adaptation must not be redistributed without Jebano's permission. No installer, Python runtime, proxy DLL or external loader is included in this alternative. See the Release notes and manual for the exact differences; Donut Team has not approved it yet. File/preparation checks are not new gameplay tests of this edition.
+
 ## Credits and development
 
 Project and improvements: **The128ReBits**. Lucas' Mod Launcher and tools: Lucas Cardellini / Donut Team. SHARLatino: Jebano. Original game, models, cars and dubs: Radical Entertainment / Vivendi Universal Games and Fox. Full component credits and licences are included in the package. These credits do not grant new rights over third-party assets. Unofficial fan project.
@@ -59,3 +67,4 @@ Project and improvements: **The128ReBits**. Lucas' Mod Launcher and tools: Lucas
 Follow the next videos, share the mod with someone who remembers Springfield, or support future improvements if you want. The mod is free either way.
 
 [YouTube](https://www.youtube.com/@The128ReBits) · [Instagram](https://www.instagram.com/The128ReBits/) · [TikTok](https://www.tiktok.com/@the128rebits) · [Patreon](https://www.patreon.com/cw/The128ReBits) · [Ko-fi](https://ko-fi.com/the128rebits) · [All links](https://linktr.ee/the128rebits)
+
